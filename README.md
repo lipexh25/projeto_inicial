@@ -18,4 +18,4 @@ Esse é o meu primeiro README
 
 [Link para o google](https://google.com.br)
 
-![link da imagem](https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwjn9ODVxpKRAxXpiJUCHezZL-oQPAgK)
+![link da imagem](https://git-scm.com/images/branching-illustration@2x.png)
